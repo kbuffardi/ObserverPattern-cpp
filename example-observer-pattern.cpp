@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ObserverPattern.hpp"
+#include "ObserverPattern.cpp"
 
 ///////////////////EXAMPLE USAGE IN SIMPLISTIC PSEUDO-MVC ARCHITECTURE:
 class AnInt: public Observable
