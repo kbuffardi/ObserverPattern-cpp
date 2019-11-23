@@ -5,6 +5,9 @@
  * and partially designed around the Java API for the libraries:
  *   java.util.Observer and java.util.Observable
  *
+ * For additional information on the Observer Pattern, see:
+ * https://wikipedia.org/wiki/Observer_pattern
+ *
  * Designed to be compliant back to (at least) C++03
  * 
  * Author: Kevin Buffardi
